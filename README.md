@@ -25,8 +25,3 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-## 📚 Stats
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight)  ![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight)
