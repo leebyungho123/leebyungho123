@@ -1,14 +1,12 @@
 
 ## 📚 About me
 <h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
-<h2 align="center">" I'm moving towards my goal! "</h3>
+<h2 align="center">" nomuhyun "</h3>
 
-
-- 🌱 I’m currently learning : **C++, Linux, AWS, SQLD**
-- ✨ My hobby : Watch a movie, algorithm Problem Solving(PS)
+- ✨ My hobby : driving without a license
 - 🧨 My desired job : SoftWare developer
-- 📝 Certificate : 정보처리기능사
-- 📫 Email : **jinseung0327@gmail.com**
+- 📝 Certificate : 정보처리기능사 도전중
+- 📫 Email : **dmsghdi3@naver.com**
 - 🏫 the school where I'm attending : GBSW
 
 ## 📚 Ready Now
