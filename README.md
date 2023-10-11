@@ -1,7 +1,4 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn)
-
 ## 📚 About me
 <h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
 <h2 align="center">" I'm moving towards my goal! "</h3>
