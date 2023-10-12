@@ -22,7 +22,7 @@
 <a href="https://instagram.com/lee._.bang">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a herf="https://www.facebook.com/profile.php?id=100039943966864">
+<a herf="https://facebook.com/profile.php?id=100039943966864">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
