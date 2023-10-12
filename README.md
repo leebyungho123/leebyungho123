@@ -1,7 +1,7 @@
 
 ## 📚 About me
 <h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
-<h2 align="center">" nomuhyun "</h3>
+<h2 align="center">"Money is the best"</h3>
 
 - ✨ My hobby : driving without a license
 - 🧨 My desired job : SoftWare developer
