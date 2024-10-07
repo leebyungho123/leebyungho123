@@ -1,11 +1,11 @@
 
 ## 📚 About me
-<h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
+<h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 18 years old.</h3>
 <h2 align="center">"Money is the best"</h3>
 
 - ✨ My hobby : driving without a license
 - 🧨 My desired job : SoftWare developer
-- 📝 Certificate : 정보처리기능사 도전중
+- 📝 Certificate : 자동차정비기능사 도전중
 - 📫 Email : **dmsghdi3@naver.com**
 - 🏫 the school where I'm attending : GBSW
 
